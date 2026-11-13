@@ -1,0 +1,12 @@
+slice_id,region,segment,owner,expected_min_records
+na-ent,north-america,enterprise,quality-engineering,40
+na-mm,north-america,mid-market,quality-engineering,40
+na-smb,north-america,smb,quality-engineering,40
+emea-ent,emea,enterprise,quality-engineering,40
+emea-mm,emea,mid-market,quality-engineering,40
+apac-ent,apac,enterprise,quality-engineering,40
+apac-mm,apac,mid-market,quality-engineering,40
+apac-smb,apac,smb,quality-engineering,40
+latam-ent,latam,enterprise,quality-engineering,40
+latam-mm,latam,mid-market,quality-engineering,40
+latam-smb,latam,smb,quality-engineering,40

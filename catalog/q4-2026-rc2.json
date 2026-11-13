@@ -1,0 +1,32 @@
+{
+  "collection": "quarterly-evaluations",
+  "contents": {
+    "q4_eval_records.csv": {
+      "digest": "sha256:09068a5d980ce23fd64fdbc51c52de2b619164e0559e0d67923715407d6f384b",
+      "size": 25546
+    },
+    "slice_registry.csv": {
+      "digest": "sha256:437047adeb865a18b43567d893301824fa05667077e254c6f16ad024dbfeffa5",
+      "size": 581
+    }
+  },
+  "files": [
+    {
+      "digest": "sha256:09068a5d980ce23fd64fdbc51c52de2b619164e0559e0d67923715407d6f384b",
+      "name": "q4_eval_records.csv",
+      "path": "bundles/q4-2026-rc2/q4_eval_records.csv",
+      "size": 25546,
+      "url": "https://github.com/komal74784391-netizen/release-audit/raw/main/.store/blobs/09068a5d980ce23fd64fdbc51c52de2b619164e0559e0d67923715407d6f384b.csv"
+    },
+    {
+      "digest": "sha256:437047adeb865a18b43567d893301824fa05667077e254c6f16ad024dbfeffa5",
+      "name": "slice_registry.csv",
+      "path": "bundles/q4-2026-rc2/slice_registry.csv",
+      "size": 581,
+      "url": "https://github.com/komal74784391-netizen/release-audit/raw/main/.store/blobs/437047adeb865a18b43567d893301824fa05667077e254c6f16ad024dbfeffa5.csv"
+    }
+  ],
+  "object_id": "qe-q4-2026-rc2",
+  "published_at": "2026-08-14T09:40:00Z",
+  "release_tag": "q4-2026-rc2"
+}
