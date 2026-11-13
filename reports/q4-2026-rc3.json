@@ -1,0 +1,20 @@
+{
+  "release_tag": "q4-2026-rc3",
+  "object_id": "qe-q4-2026-rc3",
+  "source_file": "q4_eval_records.csv",
+  "sha256": "d1ba64fcb6603a16f5cd64bac262643038e548fc7a04e607dd428d51b85c9b8b",
+  "size_bytes": 27094,
+  "record_count": 486,
+  "model_accuracy": 0.7099,
+  "baseline_accuracy": 0.6481,
+  "accuracy_lift": 0.0617,
+  "failing_slices": [
+    "latam-ent"
+  ],
+  "drift_alerts": [
+    "apac-smb",
+    "emea-ent",
+    "latam-mm"
+  ],
+  "decision": "blocked"
+}
